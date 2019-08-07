@@ -1,0 +1,11 @@
+/Users/jasonbarron/Documents/Code_Work/Coding Dojo/C#/algo/DLL/bin/Debug/netcoreapp2.1/DLL.deps.json
+/Users/jasonbarron/Documents/Code_Work/Coding Dojo/C#/algo/DLL/bin/Debug/netcoreapp2.1/DLL.runtimeconfig.json
+/Users/jasonbarron/Documents/Code_Work/Coding Dojo/C#/algo/DLL/bin/Debug/netcoreapp2.1/DLL.runtimeconfig.dev.json
+/Users/jasonbarron/Documents/Code_Work/Coding Dojo/C#/algo/DLL/bin/Debug/netcoreapp2.1/DLL.dll
+/Users/jasonbarron/Documents/Code_Work/Coding Dojo/C#/algo/DLL/bin/Debug/netcoreapp2.1/DLL.pdb
+/Users/jasonbarron/Documents/Code_Work/Coding Dojo/C#/algo/DLL/obj/Debug/netcoreapp2.1/DLL.csprojAssemblyReference.cache
+/Users/jasonbarron/Documents/Code_Work/Coding Dojo/C#/algo/DLL/obj/Debug/netcoreapp2.1/DLL.csproj.CoreCompileInputs.cache
+/Users/jasonbarron/Documents/Code_Work/Coding Dojo/C#/algo/DLL/obj/Debug/netcoreapp2.1/DLL.AssemblyInfoInputs.cache
+/Users/jasonbarron/Documents/Code_Work/Coding Dojo/C#/algo/DLL/obj/Debug/netcoreapp2.1/DLL.AssemblyInfo.cs
+/Users/jasonbarron/Documents/Code_Work/Coding Dojo/C#/algo/DLL/obj/Debug/netcoreapp2.1/DLL.dll
+/Users/jasonbarron/Documents/Code_Work/Coding Dojo/C#/algo/DLL/obj/Debug/netcoreapp2.1/DLL.pdb
